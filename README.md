@@ -2,9 +2,10 @@
 - @Keshav2136
 - Making web apps and learning about hardware stuff excites me.
 - I want to be known as the Linux guy, coz I run Linux and make videos on it.
-- My youtube channel will tell you more about me. So I suggest having a look there.
-- These are just some few lines which doesn't describe me well. So I'll say to have a look at Linux Tennyson (my youtube channel) and you will see how OpenCV works and why linux is just great.
-- https://www.youtube.com/channel/UCG_k8jjiuMU3423F48hH7wQ
+- I have made Face Recognition and Speech recognition projects using OpenCV and Google's Tensorflow and other AI/ML models, my youtube channel will tell you more about the projects I've worked upon. So I suggest having a look there.
+- These are just a few lines which don't describe me well. So I'll say to have a look at Linux Tennyson (my youtube channel) and you will see how OpenCV works and why linux is just great.
+- https://www.youtube.com/@keshav2136
+
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning PHP with MySQL.
 - 💞️ I’m looking to collaborate on ...
