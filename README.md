@@ -1,17 +1,8 @@
-- 👋 Hi, I’m Keshav Sharma
-- @Keshav2136
-- Making web apps and learning about hardware stuff excites me.
-- I want to be known as the Linux guy, coz I run Linux and make videos on it.
-- I have worked on many OpenCV projects like Face Recognition and Speech recognition and used & and trained some models on Google's Tensorflow and other AI/ML models, I usually post my work on my youtube channel. My youtube channel will tell you more about the projects I've worked upon. So I suggest having a look there.
-- These are just a few lines which don't describe me well. So I'll say to have a look at Linux Tennyson (my youtube channel) and you will see how OpenCV works and why linux is just great.
-- https://www.youtube.com/@keshav2136
+Hi there! My name is Keshav Sharma and I am a university student with a passion for **web development** and a curious mind for ethical hacking and drones. I have been working with _PHP and MySQL_ for a few years now and have tried my hand at some exciting ML and OpenCV projects like _face recognition and pose estimation_.
 
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning PHP with MySQL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I love sharing my knowledge and experiences with others, so I have documented and made tutorials on YouTube for anyone interested in learning from my work. Apart from web development, I am also interested in ethical hacking and drones, and I am always looking to improve my skills and knowledge in these areas.
+https://www.youtube.com/@keshav2136
 
-<!---
-Keshav2136/Keshav2136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to check out my portfolio and projects on my GitHub profile, and don't hesitate to reach out if you have any questions or suggestions. Thanks for stopping by! :)
+
+https://keshav2136.github.io/ is my official address on the internet. You can connect with me from here:
