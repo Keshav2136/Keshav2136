@@ -1,4 +1,4 @@
-I am a versatile and ambitious student with a passion for web development, ethical hacking, and drones. My expertise in PHP and MySQL allows me to tackle complex projects and push the boundaries of what is possible.
+Being a versatile and ambitious student with a passion for web development, ethical hacking, and drones, I use my expertise in PHP and MySQL to tackle complex projects and push the boundaries of what is possible.
 
 I have a strong track record of creating engaging tutorials and documenting my work, making it accessible and easy to understand for others. My love for ethical hacking and drones keeps me constantly learning and experimenting, always seeking to improve my skills and knowledge. https://www.youtube.com/@keshav2136
 
